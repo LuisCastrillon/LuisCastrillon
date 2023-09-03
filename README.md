@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis Castrillon</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Colombia</h3>
 
 - 🔭 I’m currently working on **SENA project**
 
